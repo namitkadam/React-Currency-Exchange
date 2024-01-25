@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Currency-Exchange/static/css/main.5a79f23d.css",
+    "main.js": "/React-Currency-Exchange/static/js/main.d4421f2d.js",
+    "static/js/787.9f0058cb.chunk.js": "/React-Currency-Exchange/static/js/787.9f0058cb.chunk.js",
+    "static/media/globe-technology-background.avif": "/React-Currency-Exchange/static/media/globe-technology-background.a04cf590dbcfb4408b40.avif",
+    "index.html": "/React-Currency-Exchange/index.html",
+    "main.5a79f23d.css.map": "/React-Currency-Exchange/static/css/main.5a79f23d.css.map",
+    "main.d4421f2d.js.map": "/React-Currency-Exchange/static/js/main.d4421f2d.js.map",
+    "787.9f0058cb.chunk.js.map": "/React-Currency-Exchange/static/js/787.9f0058cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a79f23d.css",
+    "static/js/main.d4421f2d.js"
+  ]
+}
